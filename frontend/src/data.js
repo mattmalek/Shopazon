@@ -16,7 +16,7 @@ const data = {
             name:'Long Sleeve Shirt',
             category:'Shirts',
             image:'/images/p3.jpg',
-            price:60,
+            price:70,
             brand:'Fred Perry', 
             rating: 5,
             numReviews:15,
